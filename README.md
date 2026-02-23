@@ -1,1 +1,2 @@
-live serveur: https://supabase-blog-chi.vercel.app/
+### live DEMO:
+https://supabase-blog-chi.vercel.app/
