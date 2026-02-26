@@ -34,6 +34,27 @@ Users can add, edit, and delete posts via a clean interface — all powered by S
 ✔ If you want, put a **table of contents** for quick navigation :contentReference[oaicite:4]{index=4}
 
 ---
+### 🎯 Contributing
 
-If you want, I can generate a version with badges and preview images tailored to your project style 👍
-::contentReference[oaicite:5]{index=5}
+Contributions are welcome!
+-Feel free to:
+-Add new features
+-Improve UI/UX
+-Fix bugs
+-Suggest improvements
+Just open a pull request with a clear description of changes.
+
+---
+### 👨‍💻 Author
+
+mc-senpai
+Computer Science Student
+Passionate about full-stack development & backend systems.
+---
+
+### 📄 License
+
+Distributed under the MIT License. See LICENSE for more details.
+
+---
+
