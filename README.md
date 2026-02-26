@@ -9,10 +9,12 @@ Users can add, edit, and delete posts via a clean interface — all powered by S
 
 ## 🚀 Features
 
-- Create, edit, and delete blog posts  
-- Server-side rendering with Next.js  
-- Authentication and data storage via Supabase  
-- Simple, minimal UI for fast blogging
+- 📝 Create blog posts
+- ✏️ Edit existing posts
+- 🗑️ Delete posts
+- ⚡ Real-time database powered by Supabase
+- 🌐 Deployed on Vercel
+- 🎯 Clean and minimal interface
 
 ---
 
@@ -37,19 +39,19 @@ Users can add, edit, and delete posts via a clean interface — all powered by S
 ### 🎯 Contributing
 
 Contributions are welcome!
--Feel free to:
--Add new features
--Improve UI/UX
--Fix bugs
--Suggest improvements
+- Feel free to:
+- Add new features
+- Improve UI/UX
+- Fix bugs
+- Suggest improvements
 Just open a pull request with a clear description of changes.
 
 ---
 ### 👨‍💻 Author
 
 mc-senpai
-Computer Science Student
-Passionate about full-stack development & backend systems.
+- Computer Science Student
+- Passionate about full-stack development & backend systems.
 ---
 
 ### 📄 License
